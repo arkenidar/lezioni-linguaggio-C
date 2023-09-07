@@ -11,7 +11,7 @@ void modifica_impossibile_senza_puntatore(int numero_intero_puntato_mediante_cop
   numero_intero_puntato_mediante_copia_locale_interna += 10;
 }
 
-// mostra per dimosatre regole specifiche di funzionamento
+// mostra per dimostrare regole specifiche di funzionamento
 void mostra_valore_numerico_contenuto_in_variabile(int variabile_numerica_interi){
   printf("numero intero: %d\n", variabile_numerica_interi);
 }
